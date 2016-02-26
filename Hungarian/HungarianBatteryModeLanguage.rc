@@ -1,0 +1,70 @@
+STRINGTABLE
+LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
+{
+0, "Magyar"
+1, "Battery Mode"
+2, "Energiaséma kiválasztása:"
+3, "További &beállítások"
+4, "&Egyszínű ikonok használata"
+5, "Gyorsbillentyű &beállítások\t%0:s"
+6, "&Indítás a Windows-zal"
+7, "Állandó képernyő &fényerő"
+
+9, "E&xit"
+10, "Verzió"
+11, "Battery Mode &weboldal"
+12, "http://bmode.tarcode.ru"
+13, "&Információ a tápellátási rendszerről"
+
+15, "&Energiagazdálkodás"
+16, "&Rendszerikonok engedélyezése vagy letiltása"
+17, "Windows &Mobilközpont"
+
+20, "Energiaséma &mutató kijelzése"
+21, "&Elrejtve"
+22, "Az e&lsődleges képernyőn"
+23, "Az ö&sszes képernyőn"
+
+26, "Rejtett energiasémák mutatása"
+
+30, "Adaptív fényerő engedélyezése"
+31, "Adaptív fényerő letiltása"
+
+40, "http://bmode.tarcode.ru/update.uurl"
+41, "Automatikus &frissítés"
+42, "Automatikus frissítés &bekapcsolása"
+43, "Frissítések k&eresése"
+44, "%0:s új verziója érhető el\nKattintson ide a részletekért"
+45, "Sikeres frissítés\nAz új verzió: %0:s"
+46, "Frissítés sikertelen\nKattintson ide a weboldal meglátogatásához"
+
+50, "&Fényerő csúszka megjelenítése a kijelzőkhöz"
+51, "Kijelzők &keresése"
+
+60, "Akkumulátor kímélő"
+
+70, "I&kon stílus"
+71, "Windows &7"
+72, "Windows &8"
+73, "Windows &10"
+74, "Windows &8 Light"
+75, "Windows &10 Light"
+
+80, "Üt&emező"
+
+90, "Billentyű kombináció az energiaséma megváltoztatásához"
+91, "Letiltva"
+
+100, "Beállítások exportálása fájlba"
+101, "Beállítások importálása fájlból"
+
+105, "%0:s Beállítások"
+106, "%0:s Beállítások exportálása"
+107, "%0:s Beállítások importálása"
+
+110, "Regisztrációs fájlok (*.reg)"
+111, "Szöveges fájlok (*.txt)"
+112, "Összes fájl"
+
+10000, "Hibakeresési napló mappájának megnyitása"
+}
