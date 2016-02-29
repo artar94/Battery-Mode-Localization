@@ -1,0 +1,70 @@
+STRINGTABLE
+LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
+{
+0, "Português (Brasil)"
+1, "Battery Mode"
+2, "Selecione o esquema de energia:"
+3, "Configuraçõe&s avançadas"
+4, "Usar ícones &monocromáticos"
+5, "Configurar tecla&s de atalho\t%0:s"
+6, "Inici&ar com o Windows"
+7, "&Brilho fixo da tela"
+
+9, "&Sair"
+10, "Versão"
+11, "Site do &Battery Mode"
+12, "http://bmode.tarcode.ru"
+13, "&Informações do sistema de fornecimento de energia"
+
+15, "&Energia"
+16, "&Ativar ou desativar ícones do sistema"
+17, "Centro de &Mobilidade do Windows"
+
+20, "Exibir &indicador do esquema de energia"
+21, "&Ocultar"
+22, "No monitor &primário"
+23, "Em &todos os monitores"
+
+26, "Exibir esquemas de energia ocultos"
+
+30, "Habilitar brilho adaptável"
+31, "Desabilitar brilho adaptável"
+
+40, "http://bmode.tarcode.ru/update.uurl"
+41, "At&ualizações automáticas"
+42, "Ativar atualizações aut&omáticas"
+43, "V&erificar atualizações"
+44, "Nova versão do %0:s disponível\nClique aqui para  mais detalhes"
+45, "Atualizado com sucesso\nA nova versão é %0:s"
+46, "Falha na atualização\nClique aqui para visitar o site"
+
+50, "Exibir controle de &brilho para monitores"
+51, "Localizar mo&nitores"
+
+60, "Economizar bateria"
+
+70, "Estilo dos í&cones"
+71, "Windows &7"
+72, "Windows &8"
+73, "Windows &10"
+74, "Windows &8 Claro"
+75, "Windows &10 Claro"
+
+80, "A&gendador"
+
+90, "Combinação de teclas para alterar esquema de energia"
+91, "Desativado"
+
+100, "Exportar configurações para arquivo"
+101, "Importar configurações do arquivo"
+
+105, "Configurações do %0:s"
+106, "Exportar Configurações do %0:s"
+107, "Importar Configurações do %0:s"
+
+110, "Arquivos do Registro (*.reg)"
+111, "Arquivos de Texto (*.txt)"
+112, "Todos os Arquivos"
+
+10000, "Abrir pasta do registro de depuração"
+}
