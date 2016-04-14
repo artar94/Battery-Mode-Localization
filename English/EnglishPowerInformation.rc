@@ -36,6 +36,9 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 747, "Fully Discharged"
 748, "Discharging"
 
+750, "&View"
+751, "&Always on top"
+
 755, "&File"
 756, "&Close"
 757, "&Save"

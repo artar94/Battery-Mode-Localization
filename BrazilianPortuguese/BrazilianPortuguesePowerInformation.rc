@@ -36,6 +36,9 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 747, "Totalmente Descarregada"
 748, "Descarregando"
 
+750, "E&xibir"
+751, "&Sempre visível"
+
 755, "&Arquivo"
 756, "&Fechar"
 757, "&Salvar"

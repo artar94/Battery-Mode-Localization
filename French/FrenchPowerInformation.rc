@@ -36,6 +36,9 @@ LANGUAGE LANG_FRENCH, SUBLANG_DEFAULT
 747, "Complètement déchargée"
 748, "Déchargement"
 
+750, "&Affichage"
+751, "&Toujours au dessus"
+
 755, "&Fichier"
 756, "&Fermer"
 757, "&Sauvegarder"
