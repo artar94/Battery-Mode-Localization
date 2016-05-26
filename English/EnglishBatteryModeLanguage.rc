@@ -43,7 +43,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 60, "Battery saver"
 
-70, "I&cons style"
+70, "Icons &style"
 71, "Windows &7"
 72, "Windows &8"
 73, "Windows &10"
@@ -65,6 +65,11 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 110, "Registration Files (*.reg)"
 111, "Text Files (*.txt)"
 112, "All Files"
+
+120, "Icons &color"
+121, "Based on power &scheme"
+122, "Based on &battery charge"
+123, "&White"
 
 10000, "Open debug log folder"
 }
