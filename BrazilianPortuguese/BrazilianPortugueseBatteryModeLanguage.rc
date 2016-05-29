@@ -66,5 +66,10 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 111, "Arquivos de Texto (*.txt)"
 112, "Todos os Arquivos"
 
+120, "&Cor dos ícones"
+121, "Baseada no e&squema de energia"
+122, "Baseada na carga da &bateria"
+123, "&Branco"
+
 10000, "Abrir pasta do registro de depuração"
 }
