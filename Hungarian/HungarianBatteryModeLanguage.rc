@@ -66,5 +66,10 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 111, "Szöveges fájlok (*.txt)"
 112, "Összes fájl"
 
+120, "Ikonok &színe"
+121, "Energiagazdálkodási &séma alapján"
+122, "&Akkumulátor töltöttség alapján"
+123, "&Fehér"
+
 10000, "Hibakeresési napló mappájának megnyitása"
 }
