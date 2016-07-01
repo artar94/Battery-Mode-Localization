@@ -71,5 +71,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 122, "Based on &battery charge"
 123, "&White"
 
+130, "Disable popup window's bo&rder"
+
 10000, "Open debug log folder"
 }
