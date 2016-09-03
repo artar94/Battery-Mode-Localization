@@ -71,5 +71,7 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 122, "Baseada na carga da &bateria"
 123, "&Branco"
 
+130, "Desativar bo&rda da janela popup"
+
 10000, "Abrir pasta do registro de depuração"
 }

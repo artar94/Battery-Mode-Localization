@@ -89,6 +89,13 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 1245, "for fechada"
 1246, "for aberta"
 
+1260, "exibir %0:s"
+1261, "Exibição"
+
+1265, "desligar"
+1266, "ligar"
+1267, "ficar escurecida"
+
 1300, "carga da bateria %0:s %1:d%%"
 1301, "Carga da bateria"
 
@@ -106,4 +113,11 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 
 1345, "está fechada"
 1346, "está aberta"
+
+1360, "exibir %0:s"
+1361, "Exibição"
+
+1365, "está desligada"
+1366, "está ligada"
+1367, "está escurecida"
 }
