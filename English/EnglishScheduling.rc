@@ -96,6 +96,9 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 1266, "turns on"
 1267, "gets dimmed"
 
+1280, "power scheme \"%0:s\" becomes active"
+1281, "Power scheme is set to"
+
 1300, "battery charge %0:s %1:d%%"
 1301, "Battery charge"
 
@@ -120,4 +123,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 1365, "is off"
 1366, "is on"
 1367, "is dimmed"
+
+1380, "active power scheme is \"%0:s\""
+1381, "Active power scheme is"
 }
