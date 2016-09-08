@@ -126,4 +126,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 1380, "active power scheme is \"%0:s\""
 1381, "Active power scheme is"
+
+1390, "active power scheme is not \"%0:s\""
+1391, "Active power scheme is not"
 }
