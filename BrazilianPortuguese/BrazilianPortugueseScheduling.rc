@@ -99,6 +99,9 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 1300, "carga da bateria %0:s %1:d%%"
 1301, "Carga da bateria"
 
+1280, "esquema de energia \"%0:s\" ficar ativo"
+1281, "Esquema de energia está definido para"
+
 1305, "está abaixo de"
 1306, "está acima de"
 
@@ -120,4 +123,10 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 1365, "está desligada"
 1366, "está ligada"
 1367, "está escurecida"
+
+1380, "esquema de energia ativo é \"%0:s\""
+1381, "Esquema de energia ativo é"
+
+1390, "esquema de energia ativo não é \"%0:s\""
+1391, "Esquema de energia ativo não é"
 }
