@@ -37,7 +37,7 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 1071, "Alkalmaz"
 1072, "Elvet"
 
-1075, "A szabály módosításva lett. Elmentsük most?"
+1075, "A szabály módosítva lett. Elmentsük most?"
 
 1080, "Név"
 1081, "Ne alkalmazzon más szabályokat"
@@ -52,14 +52,14 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 1092, "Töröl"
 
 1095, "Feltétel hozzáadása"
-1096, "Műveletek végrehatjása"
+1096, "Műveletek végrehajtása"
 1097, "Feltétel hozzáadása"
 
 1100, "üzenet mutatása \"%0:s\""
 1101, "Üzenet mutatása"
 
-1110, "engergiaséma beállítása \"%0:s\""
-1111, "Engergiaséma beállítása"
+1110, "energiaséma beállítása \"%0:s\""
+1111, "Energiaséma beállítása"
 
 1120, "Program indítása"
 1121, "indítás \"%0:s\""
@@ -89,6 +89,16 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 1245, "lehajtásra kerül"
 1246, "felhajtásra kerül"
 
+1260, "kijelző %0:s"
+1261, "Kijelző"
+
+1265, "kikapcsol"
+1266, "bekapcsol"
+1267, "elhalványul"
+
+1280, "energiaséma \"%0:s\" aktívvá válik"
+1281, "Energiaséma beállítása"
+
 1300, "akkumulátor töltöttség %0:s %1:d%%"
 1301, "Akkumulátor töltöttség"
 
@@ -104,6 +114,19 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 1340, "fedél %0:s"
 1341, "Fedél"
 
-1345, "le van hajta"
+1345, "le van hajtva"
 1346, "fel van hajtva"
+
+1360, "képernyő %0:s"
+1361, "Képernyő"
+
+1365, "ki van kapcsolva"
+1366, "be van kapcsolva"
+1367, "el van halványítva"
+
+1380, "az aktív energiaséma \"%0:s\""
+1381, "Az aktív energiaséma"
+
+1390, "az aktív energiaséma nincs \"%0:s\""
+1391, "Az aktív energiaséma nincs"
 }

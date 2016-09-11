@@ -71,5 +71,7 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 122, "&Akkumulátor töltöttség alapján"
 123, "&Fehér"
 
+130, "Felugró ablak ke&ret letiltása"
+
 10000, "Hibakeresési napló mappájának megnyitása"
 }

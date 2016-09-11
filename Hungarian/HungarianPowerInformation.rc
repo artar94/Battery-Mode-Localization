@@ -22,8 +22,8 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 722, "Töltés/Merülés arány"
 723, "Töltés arány"
 724, "Merülés arány"
-725, "Akkumulátor merülési figyelmezetés 1"
-726, "Akkumulátor merülési figyelmezetés 2"
+725, "Akkumulátor merülési figyelmeztetés 1"
+726, "Akkumulátor merülési figyelmeztetés 2"
 727, "Hőmérséklet"
 
 740, "Nem újratölthető %0:s"
@@ -49,7 +49,7 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 
 765, "Energiagazdálkodási tulajdonságok"
 
-770, "Jelenlegi árramforrás"
+770, "Jelenlegi áramforrás"
 771, "Akkumulátor állapot"
 772, "Teljes akkumulátor élettartam"
 773, "Hátralévő akkumulátor élettartam"
