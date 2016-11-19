@@ -40,7 +40,6 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 50, "Display &brightness slider for monitors"
 51, "Sca&n for monitors"
-52, "Turn &off screen"
 
 60, "Battery saver"
 
@@ -75,6 +74,13 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 130, "Disable popup window's bo&rder"
 
 135, "Popup footer &link"
+136, "Turn &off screen"
+137, "Shut &down"
+138, "&Restart"
+139, "&Sleep"
+140, "&Hibernate"
+141, "Sign &out"
+142, "&Lock"
 
 10000, "Open debug log folder"
 }
