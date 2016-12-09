@@ -73,14 +73,18 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 130, "Disable popup window's bo&rder"
 
+134, "Sh&ut down or sign out"
 135, "Popup footer &link"
 136, "Turn &off screen"
-137, "Shut &down"
+137, "Sh&ut down"
 138, "&Restart"
 139, "&Sleep"
 140, "&Hibernate"
-141, "Sign &out"
+141, "S&ign out"
 142, "&Lock"
+143, "&Troubleshoot"
+144, "&Power supply system"
+145, "&Disconnect"
 
 10000, "Open debug log folder"
 }
