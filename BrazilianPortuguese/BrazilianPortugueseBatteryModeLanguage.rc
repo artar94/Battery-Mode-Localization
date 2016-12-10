@@ -73,5 +73,18 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 
 130, "Desativar bo&rda da janela popup"
 
+134, "&Desligar ou sair"
+135, "&Link de rodapé do popup"
+136, "Desli&gar tela"
+137, "Des&ligar"
+138, "&Reiniciar"
+139, "&Suspender"
+140, "&Hibernar"
+141, "S&air"
+142, "&Bloquear"
+143, "&Solução de problemas"
+144, "Status da &bateria"
+145, "&Desconectar"
+
 10000, "Abrir pasta do registro de depuração"
 }
