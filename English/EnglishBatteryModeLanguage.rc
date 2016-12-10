@@ -83,7 +83,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 141, "S&ign out"
 142, "&Lock"
 143, "&Troubleshoot"
-144, "&Power supply system"
+144, "&Battery status"
 145, "&Disconnect"
 
 10000, "Open debug log folder"
