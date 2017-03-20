@@ -86,5 +86,7 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 144, "Status da &bateria"
 145, "&Desconectar"
 
+150, "&Idioma"
+
 10000, "Abrir pasta do registro de depuração"
 }

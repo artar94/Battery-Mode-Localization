@@ -73,5 +73,7 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 
 130, "Felugró ablak ke&ret letiltása"
 
+150, "&Nyelv",
+
 10000, "Hibakeresési napló mappájának megnyitása"
 }

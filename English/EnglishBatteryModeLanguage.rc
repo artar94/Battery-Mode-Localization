@@ -86,5 +86,8 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 144, "&Battery status"
 145, "&Disconnect"
 
+150, "&Language"
+151, "&System"
+
 10000, "Open debug log folder"
 }

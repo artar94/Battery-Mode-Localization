@@ -66,5 +66,7 @@ LANGUAGE LANG_FRENCH, SUBLANG_DEFAULT
 111, "Fichiers Texte (*.txt)"
 112, "Tous les fichiers"
 
+150, "&Langue",
+
 10000, "Ouvrir le dossier du log de débogage"
 }
