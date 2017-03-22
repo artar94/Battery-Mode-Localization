@@ -96,11 +96,11 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 1266, "ligar"
 1267, "ficar escurecida"
 
-1300, "carga da bateria %0:s %1:d%%"
-1301, "Carga da bateria"
-
 1280, "esquema de energia \"%0:s\" ficar ativo"
 1281, "Esquema de energia está definido para"
+
+1300, "carga da bateria %0:s %1:d%%"
+1301, "Carga da bateria"
 
 1305, "está abaixo de"
 1306, "está acima de"
