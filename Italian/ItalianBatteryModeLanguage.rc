@@ -1,0 +1,93 @@
+STRINGTABLE
+LANGUAGE LANG_ITALIAN, SUBLANG_ITALIAN
+{
+0, "Italian"
+1, "Battery Mode"
+2, "Select the power scheme:"
+3, "Advanced &settings"
+4, "Use &monochromatic icons"
+5, "Hotkeys &settings\t%0:s"
+6, "&Autostart with Windows"
+7, "Fixed screen &brightness"
+
+9, "E&xit"
+10, "Version"
+11, "Battery Mode &website"
+12, "http://bmode.tarcode.ru"
+13, "&Information about power supply system"
+
+15, "&Power"
+16, "&Enable or disable the system icons"
+17, "Windows &Mobility Center"
+
+20, "Show power scheme &indicator"
+21, "&Hide"
+22, "On the &primary monitor"
+23, "On &all monitors"
+
+26, "Show hidden power schemes"
+
+30, "Enable adaptive brightness"
+31, "Disable adaptive brightness"
+
+40, "http://bmode.tarcode.ru/update.uurl"
+41, "Automatic &updates"
+42, "Turn &on automatic updates"
+43, "Ch&eck for Updates"
+44, "New version of %0:s is available\nClick here for more details"
+45, "Update successful\nThe new version is %0:s"
+46, "Update failed\nClick here to visit the website"
+
+50, "Display &brightness slider for monitors"
+51, "Sca&n for monitors"
+
+60, "Battery saver"
+
+70, "Icons &style"
+71, "Windows &7"
+72, "Windows &8"
+73, "Windows &10"
+74, "Windows &8 Light"
+75, "Windows &10 Light"
+
+80, "Sc&heduler"
+
+90, "The hotkey combination to change power scheme"
+91, "Disabled"
+
+100, "Export settings to file"
+101, "Import settings from file"
+
+105, "%0:s Settings"
+106, "Export %0:s Settings"
+107, "Import %0:s Settings"
+
+110, "Registration Files (*.reg)"
+111, "Text Files (*.txt)"
+112, "All Files"
+
+120, "Icons &color"
+121, "Based on power &scheme"
+122, "Based on &battery charge"
+123, "&White"
+
+130, "Disable popup window's bo&rder"
+
+134, "Sh&ut down or sign out"
+135, "Popup footer &link"
+136, "Turn &off screen"
+137, "Sh&ut down"
+138, "&Restart"
+139, "&Sleep"
+140, "&Hibernate"
+141, "S&ign out"
+142, "&Lock"
+143, "&Troubleshoot"
+144, "&Battery status"
+145, "&Disconnect"
+
+150, "&Language"
+151, "&Default"
+
+10000, "Open debug log folder"
+}
