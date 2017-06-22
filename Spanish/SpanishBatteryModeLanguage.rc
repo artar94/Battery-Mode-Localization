@@ -70,6 +70,8 @@ LANGUAGE LANG_SPANISH, SUBLANG_SPANISH
 121, "Basado en planes de energía"
 122, "Basado en carga de batería"
 123, "Blanco"
+124, "Basado en planes de energía (inverté)"
+125, "Basado en carga de batería (inverté)"
 
 130, "Desactivar borde del ventana emergente"
 

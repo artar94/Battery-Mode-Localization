@@ -70,6 +70,8 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 121, "Baseada no e&squema de energia"
 122, "Baseada na carga da &bateria"
 123, "&Branco"
+124, "Baseada no e&squema de energia (invertido)"
+125, "Baseada na carga da &bateria (invertido)"
 
 130, "Desativar bo&rda da janela popup"
 

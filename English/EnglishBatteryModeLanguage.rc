@@ -70,6 +70,8 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 121, "Based on power &scheme"
 122, "Based on &battery charge"
 123, "&White"
+124, "Based on &power scheme (inverted)"
+125, "Based on battery &charge (inverted)"
 
 130, "Disable popup window's bo&rder"
 

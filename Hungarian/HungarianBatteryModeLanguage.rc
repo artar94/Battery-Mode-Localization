@@ -70,6 +70,8 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 121, "Energiagazdálkodási &séma alapján"
 122, "&Akkumulátor töltöttség alapján"
 123, "&Fehér"
+124, "Energiagazdálkodási &séma alapján (átfordított)"
+125, "&Akkumulátor töltöttség alapján (átfordított)"
 
 130, "Felugró ablak ke&ret letiltása"
 
