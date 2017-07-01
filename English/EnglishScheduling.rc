@@ -68,6 +68,14 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 1125, "Browse"
 1126, "Launch hidden"
 
+1130, "Play sound"
+1131, "play sound \"%0:s\""
+1132, "play sound \"%0:s\" with volume %1:d%%"
+
+1135, "Browse"
+1136, "Volume"
+
+
 1200, "battery charge %0:s %1:d%%"
 1201, "battery charge %0:s"
 1202, "Battery charge"
