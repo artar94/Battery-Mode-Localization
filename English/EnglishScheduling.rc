@@ -74,7 +74,8 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 1135, "Browse"
 1136, "Volume"
-
+1137, "Audio files"
+1138, "All files"
 
 1200, "battery charge %0:s %1:d%%"
 1201, "battery charge %0:s"
