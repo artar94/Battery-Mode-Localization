@@ -68,6 +68,15 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 1125, "Procurar"
 1126, "Executar oculto"
 
+1130, "Reproduzir som"
+1131, "reproduzir som \"%0:s\""
+1132, "reproduzir som \"%0:s\" com volume %1:d%%"
+
+1135, "Procurar"
+1136, "Volume"
+1137, "Arquivos de áudio"
+1138, "Todos os arquivos"
+
 1200, "carga da bateria %0:s %1:d%%"
 1201, "carga da bateria %0:s"
 1202, "Carga da bateria"
