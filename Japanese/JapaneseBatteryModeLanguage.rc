@@ -16,7 +16,7 @@ LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
 12, "http://bmode.tarcode.ru"
 13, "電源供給システムの情報(&I)"
 
-15, "電源(&P)"
+15, "電源オプションを開く(&P)"
 16, "システムアイコンのオン/オフ(&E)"
 17, "Windowsモビリティセンター(&M)"
 
