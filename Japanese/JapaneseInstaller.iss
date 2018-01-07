@@ -1,4 +1,4 @@
-[CustomMessages]
+﻿[CustomMessages]
 ; InstallType
 japanese.InstallType=インストール方式を選んでください
 ; InstallTypeDescription
