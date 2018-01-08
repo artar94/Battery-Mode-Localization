@@ -2,7 +2,7 @@ STRINGTABLE
 LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
 {
 0, "日本語(&J)"
-1, "バッテリーモード"
+1, "Battery Mode"
 2, "電源プラン:"
 3, "高度な設定(&S)"
 4, "モノクロのアイコンを使用(&M)"
