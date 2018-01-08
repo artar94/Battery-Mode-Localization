@@ -44,11 +44,11 @@ LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
 60, "バッテリーセーバー"
 
 70, "アイコンスタイル(&A)"
-71, "Windows &7(7)"
-72, "Windows &8(8)"
-73, "Windows &10(1)"
-74, "Windows &8 Light(8)"
-75, "Windows &10 Light(1)"
+71, "Windows 7(&7)"
+72, "Windows 8(&8)"
+73, "Windows 10(&1)"
+74, "Windows 8 Light(&L)"
+75, "Windows 10 Light(&I)"
 
 80, "スケジューラー(&H)"
 
@@ -89,7 +89,7 @@ LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
 145, "切断(&D)"
 
 150, "言語(&L)"
-151, "&Default(&D)"
+151, "&Default"
 
 10000, "Debugログフォルダを開く"
 }
