@@ -88,8 +88,8 @@ LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
 144, "バッテリー状態(&B)"
 145, "切断(&D)"
 
-150, "Language(&L)"
-151, "デフォルト(&D)"
+150, "&Language(&D)"
+151, "&Default(&D)"
 
 10000, "Debugログフォルダを開く"
 }
