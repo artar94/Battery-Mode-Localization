@@ -12,7 +12,9 @@ You can begin your translation by copying the folder with existing localization.
 
 Then you should carefully translate every string of all files in that folder to your language.
 
-You should save the resulting file in **UTF-8** encoding **without BOM**.
+You should save resulting *.rc files in **UTF-8** encoding **without BOM**.
+
+Resulting *.iss files should be saved in **UTF-8** encoding **with BOM**.
 
 When your are done with localization, commit your new folder to your repository and make a pull-request.
 
