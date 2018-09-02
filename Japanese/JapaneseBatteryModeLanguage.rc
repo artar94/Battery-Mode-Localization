@@ -13,7 +13,7 @@ LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
 9, "終了(&X)"
 10, "バージョン"
 11, "Battery Mode webサイト(&W)"
-12, "http://bmode.tarcode.ru"
+12, "https://bmode.tarcode.ru"
 13, "電源供給システムの情報(&I)"
 
 15, "電源オプションを開く(&P)"
@@ -30,7 +30,7 @@ LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
 30, "明るさの自動設定を有効化"
 31, "明るさの自動設定を無効化"
 
-40, "http://bmode.tarcode.ru/update.uurl"
+40, "https://bmode.tarcode.ru/update.uurl"
 41, "自動アップデート(&U)"
 42, "自動アップデートを有効化(&O)"
 43, "アップデートを確認(&E)"

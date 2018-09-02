@@ -13,7 +13,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 9, "E&xit"
 10, "Version"
 11, "Battery Mode &website"
-12, "http://bmode.tarcode.ru"
+12, "https://bmode.tarcode.ru"
 13, "&Information about power supply system"
 
 15, "&Power"
@@ -30,7 +30,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 30, "Enable adaptive brightness"
 31, "Disable adaptive brightness"
 
-40, "http://bmode.tarcode.ru/update.uurl"
+40, "https://bmode.tarcode.ru/update.uurl"
 41, "Automatic &updates"
 42, "Turn &on automatic updates"
 43, "Ch&eck for Updates"

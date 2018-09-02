@@ -13,7 +13,7 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 9, "&Sair"
 10, "Versão"
 11, "Site do &Battery Mode"
-12, "http://bmode.tarcode.ru"
+12, "https://bmode.tarcode.ru"
 13, "&Informações do sistema de fornecimento de energia"
 
 15, "&Energia"
@@ -30,7 +30,7 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 30, "Habilitar brilho adaptável"
 31, "Desabilitar brilho adaptável"
 
-40, "http://bmode.tarcode.ru/update.uurl"
+40, "https://bmode.tarcode.ru/update.uurl"
 41, "At&ualizações automáticas"
 42, "Ativar atualizações aut&omáticas"
 43, "V&erificar atualizações"

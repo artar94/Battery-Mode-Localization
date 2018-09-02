@@ -1,6 +1,6 @@
 # Battery Mode localization repository #
 
-This repository contains translation resources for [Battery Mode program](http://bmode.tarcode.ru).
+This repository contains translation resources for [Battery Mode program](https://bmode.tarcode.ru).
 
 You can help us with translating the program to your native language by contributing your translation.
 

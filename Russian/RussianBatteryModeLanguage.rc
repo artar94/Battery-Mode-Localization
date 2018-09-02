@@ -1,4 +1,4 @@
-STRINGTABLE
+﻿STRINGTABLE
 LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
 {
 0, "Русский"
@@ -13,7 +13,7 @@ LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
 9, "В&ыход"
 10, "Версия"
 11, "Посетить &сайт Battery Mode"
-12, "http://bmode.tarcode.ru"
+12, "https://bmode.tarcode.ru"
 13, "&Информация о системе электропитания"
 
 15, "&Электропитание"
@@ -30,7 +30,7 @@ LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
 30, "Включить адаптивную регулировку яркости"
 31, "Выключить адаптивную регулировку яркости"
 
-40, "http://bmode.tarcode.ru/update.uurl"
+40, "https://bmode.tarcode.ru/update.uurl"
 41, "Автоматическое &обновление"
 42, "&Автоматическая проверка обновлений"
 43, "&Проверить на наличие обновлений"

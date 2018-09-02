@@ -13,7 +13,7 @@ LANGUAGE LANG_UKRAINIAN, SUBLANG_DEFAULT
 9, "В&ихід"
 10, "Версія"
 11, "Відвідати веб-&сайт Battery Mode (рос.)"
-12, "http://bmode.tarcode.ru"
+12, "https://bmode.tarcode.ru"
 13, "І&нформація про систему електроживлення"
 
 15, "&Електроживлення"
@@ -30,7 +30,7 @@ LANGUAGE LANG_UKRAINIAN, SUBLANG_DEFAULT
 30, "Увімкнути адаптивну яскравість"
 31, "Вимкнути адаптивну яскравість"
 
-40, "http://bmode.tarcode.ru/update.uurl"
+40, "https://bmode.tarcode.ru/update.uurl"
 41, "Автоматичне &оновлення"
 42, "Увімкнути &автоматичне оновлення"
 43, "&Перевірити наявність оновлень"
