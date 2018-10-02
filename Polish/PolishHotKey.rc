@@ -1,13 +1,13 @@
 STRINGTABLE
-LANGUAGE LANG_POLISH, SUBLANG_POLISH_POLAND
+LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 {
-300, "Hotkey"
-301, "Apply"
-302, "Cancel"
+300, "Klawisz skrótu"
+301, "Zastosuj"
+302, "Anuluj"
 
-310, "Custom"
+310, "Własny"
 
-320, "Enable hotkey"
+320, "Włącz klawisz skrótu"
 
-350, "None"
+350, "Brak"
 }

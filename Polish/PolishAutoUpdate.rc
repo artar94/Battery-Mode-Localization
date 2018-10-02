@@ -1,16 +1,16 @@
 STRINGTABLE
-LANGUAGE LANG_POLISH, SUBLANG_POLISH_POLAND
+LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 {
-900, "Software Update"
-901, "A new version of %0:s is available!"
-902, "%0:s %1:s is now available (you have %2:s). Would you like to download it now?"
-903, "Release notes:"
-904, "Skip this version"
-905, "Remind me later"
-906, "Install update"
-907, "You're up to date!"
-908, "%0:s %1:s is currently the newest version available."
-909, "Close"
-910, "An error has occurred while downloading updates"
-911, "Unable to initialize the update"
+900, "Aktualizacja oprogramowania"
+901, "Nowa wersja %0:s jest dostępna!"
+902, "%0:s %1:s jest dostępna (posiadasz %2:s). Czy chcesz ją teraz pobrać?"
+903, "Informacje o wydaniu:"
+904, "Pomiń tą wersję"
+905, "Przypomnij mi później"
+906, "Zainstaluj aktualizację"
+907, "Jesteś na bieżąco!"
+908, "%0:s %1:s jest obecnie najnowszą dostępną wersją."
+909, "Zamknij"
+910, "Wystąpił błąd podczas pobierania aktualizacji"
+911, "Nie można zainicjować aktualizacji"
 }

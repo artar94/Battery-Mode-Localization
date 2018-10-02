@@ -1,29 +1,29 @@
 ﻿[CustomMessages]
 ; InstallType
-polish.InstallType=Select Installation Type
+polish.InstallType=Wybierz typ instalacji
 ; InstallTypeDescription
-polish.InstallTypeDescription=You can install standard or portable version of {#AppName}
+polish.InstallTypeDescription=Możesz zainstalować standardową lub przenośną wersję {#AppName}
 
 ; AllUserRadioButton
-polish.AllUserRadioButton=Install to Program Files
+polish.AllUserRadioButton=Instaluj do Program Files
 ; AllUserDescLabel
-polish.AllUserDescLabel=Administrator access required.%nThe program will be installed to all users
+polish.AllUserDescLabel=Wymagane uprawnienia administratora.%nProgram zostanie zainstalowany dla wszystkich użytkowników
 
 ; JustForMeRadioButton
-polish.JustForMeRadioButton=Install to AppData
+polish.JustForMeRadioButton=Instaluj do AppData
 ; JustForMeDescLabel
-polish.JustForMeDescLabel=No Administrator acces required.%nThe program will be installed to current user only
+polish.JustForMeDescLabel=Nie wymaga uprawnień administratora.%nProgram zostanie zainstalowany tylko dla bieżącego użytkownika
 
 ; PortableRadioButton
-polish.PortableRadioButton=Portable Installation
+polish.PortableRadioButton=Instalacja przenośna
 ; PortableDescLabel
-polish.PortableDescLabel=Places the program to the selected folder
+polish.PortableDescLabel=Umieszcza program w wybranym folderze
 
 ; SysIcons
-polish.SysIcons=Disable System Power Icon
+polish.SysIcons=Wyłącz systemową ikonę zasilania
 ; SysIconsDescription
-polish.SysIconsDescription=You can hide system power icon to make {#AppName} the only power icon in your tray 
+polish.SysIconsDescription=Możesz ukryć systemową ikonę zasilania, aby {#AppName} była jedyną ikoną zasilania w zasobniku
 ; SysIconsDescLabel
-polish.SysIconsDescLabel=Click "System Icons Settings" button and turn off "Power" to hide system power icon.%n%nYou can always access this window using {#AppName} menu
+polish.SysIconsDescLabel=Kliknij "Ustawienia ikon systemowych" i wyłącz "Zasilanie", aby ukryć systemową ikonę zasilania.%n%nZawsze możesz uzyskać dostęp do tego okna za pomocą menu {#AppName}
 ; SysIconButton
-polish.SysIconButton=System Icons Settings
+polish.SysIconButton=Ustawienia ikon systemowych
