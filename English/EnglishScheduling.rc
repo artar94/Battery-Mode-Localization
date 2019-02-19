@@ -77,6 +77,21 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 1137, "Audio files"
 1138, "All files"
 
+1140, "Power"
+1141, "shut down this PC"
+1142, "restart Windows"
+1143, "put this PC into sleep"
+1144, "hibernate this PC"
+1145, "turn off screen"
+1146, "turn on screen"
+
+1151, "Shut down"
+1152, "Restart"
+1153, "Sleep"
+1154, "Hibernate"
+1155, "Turn off screen"
+1156, "Turn off screen"
+
 1200, "battery charge %0:s %1:d%%"
 1201, "battery charge %0:s"
 1202, "Battery charge"
