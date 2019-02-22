@@ -90,7 +90,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 1153, "Sleep"
 1154, "Hibernate"
 1155, "Turn off screen"
-1156, "Turn off screen"
+1156, "Turn on screen"
 
 1200, "battery charge %0:s %1:d%%"
 1201, "battery charge %0:s"
