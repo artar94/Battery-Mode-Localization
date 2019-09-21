@@ -40,6 +40,10 @@ LANGUAGE LANG_HUNGARIAN, SUBLANG_DEFAULT
 
 50, "&Fényerő csúszka megjelenítése a kijelzőkhöz"
 51, "Kijelzők &keresése"
+52, "Belső monitor"
+53, "Fényerő &csúszka"
+54, "Megjeleníti a &monitor modelljét"
+55, "Mutassa a &fényerőt százalékban"
 
 60, "Akkumulátor kímélő"
 

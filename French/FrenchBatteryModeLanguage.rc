@@ -40,6 +40,10 @@ LANGUAGE LANG_FRENCH, SUBLANG_DEFAULT
 
 50, "Contrôler la &luminescence des moniteurs"
 51, "Sca&nner pour de nouveaux moniteurs"
+52, "Moniteur interne"
+53, "Curseur de &luminosité"
+54, "Afficher le &modèle de moniteur"
+55, "Afficher la &luminosité en pourcentages"
 
 60, "Economiseur de batterie"
 

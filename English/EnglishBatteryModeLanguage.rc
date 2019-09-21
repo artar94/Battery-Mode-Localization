@@ -40,6 +40,10 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 50, "Display &brightness slider for monitors"
 51, "Sca&n for monitors"
+52, "Internal monitor"
+53, "B&rightness slider"
+54, "Show &monitor model"
+55, "Show &brightness in percents"
 
 60, "Battery saver"
 

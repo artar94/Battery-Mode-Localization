@@ -40,6 +40,10 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 
 50, "Wyświetl &suwak jasności dla monitorów"
 51, "Ska&nuj w poszukiwaniu monitorów"
+52, "Monitor wewnętrzny"
+53, "Suwak &jasności"
+54, "Pokaż &model monitorowania"
+55, "Pokaż &jasność w procentach"
 
 60, "Oszczędzanie baterii"
 

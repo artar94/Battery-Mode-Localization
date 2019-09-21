@@ -40,6 +40,10 @@ LANGUAGE LANG_SPANISH, SUBLANG_SPANISH
 
 50, "Control deslizante de brillo de pantalla para monitores"
 51, "Búsqueda de monitores"
+52, "Monitor interno"
+53, "Control &deslizante de brillo"
+54, "Mostrar &modelo de monitor"
+55, "Mostrar &brillo en porcentajes"
 
 60, "Ahorro de batería"
 

@@ -40,6 +40,10 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 
 50, "Exibir controle de &brilho para monitores"
 51, "Localizar mo&nitores"
+52, "Monitor interno"
+53, "Controle &deslizante de brilho"
+54, "Mostrar &modelo de monitor"
+55, "Mostrar &brilho em porcentagens"
 
 60, "Economizar bateria"
 
