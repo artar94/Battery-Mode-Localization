@@ -79,6 +79,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 130, "Disable popup window's bo&rder"
 131, "Use &crossed icon when the battery is missing"
+132, "Display charge &percentage in tray"
 
 134, "Sh&ut down or sign out"
 135, "Popup footer &link"
