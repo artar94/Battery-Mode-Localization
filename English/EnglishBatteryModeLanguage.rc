@@ -97,9 +97,13 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 150, "&Language"
 151, "&Default"
 
-160, "Best performance"
-161, "Maximum performance"
-162, "Improved battery"
+160, "Maximum performance"
+161, "Best performance"
+162, "Better battery"
+
+170, "Power scheme &sets to use"
+171, "&Classic power schemes"
+172, "&Windows 10 power modes"
 
 10000, "Open debug log folder"
 }
