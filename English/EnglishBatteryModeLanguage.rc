@@ -25,7 +25,8 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 22, "On the &primary monitor"
 23, "On &all monitors"
 
-26, "Show hidden power schemes"
+26, "&Hidden power schemes"
+27, "Hidden scheme"
 
 30, "Enable adaptive brightness"
 31, "Disable adaptive brightness"
