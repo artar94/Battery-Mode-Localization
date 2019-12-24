@@ -6,7 +6,7 @@ LANGUAGE LANG_FRENCH, SUBLANG_DEFAULT
 2, "Séléctionner le mode d'alimentation:"
 3, "Paramètres &Avancés"
 4, "Utiliser des icônes &monochromes"
-5, "Paramètres des &raccourcis clavier\t%0:s"
+5, "Paramètres des &raccourcis clavier"
 6, "&Démarrer automatiquement avec Windows"
 7, "&Luminescence fixe de l'écran"
 

@@ -6,7 +6,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 2, "Select the power scheme:"
 3, "Advanced &settings"
 4, "Use &monochromatic icons"
-5, "Hotkeys &settings\t%0:s"
+5, "Hotkeys &settings"
 6, "&Autostart with Windows"
 7, "Fixed screen &brightness"
 
