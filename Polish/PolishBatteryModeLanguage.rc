@@ -6,7 +6,7 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 2, "Wybierz schemat zasilania:"
 3, "U&stawienia zaawansowane"
 4, "Użyj ikon &monochromatycznych"
-5, "Ustawienia klawiszy &skrótów\t%0:s"
+5, "Ustawienia klawiszy &skrótów"
 6, "&Autostart z systemem Windows"
 7, "Stała &jasność ekranu"
 
