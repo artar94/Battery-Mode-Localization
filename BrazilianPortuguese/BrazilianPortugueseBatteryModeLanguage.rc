@@ -4,9 +4,9 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 0, "Português (Brasil)"
 1, "Battery Mode"
 2, "Selecione o esquema de energia:"
-3, "Configuraçõe&s avançadas"
+3, "Configuraçõe&s"
 4, "Usar ícones &monocromáticos"
-5, "Configurar tecla&s de atalho"
+5, "Configurar"
 6, "Inici&ar com o Windows"
 7, "&Brilho fixo da tela"
 
@@ -25,7 +25,8 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 22, "No monitor &primário"
 23, "Em &todos os monitores"
 
-26, "Exibir esquemas de energia ocultos"
+26, "Esquemas de energia ocultos"
+27, "Esquema oculto"
 
 30, "Habilitar brilho adaptável"
 31, "Desabilitar brilho adaptável"
@@ -44,6 +45,7 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 53, "Controle &deslizante de brilho"
 54, "Mostrar &modelo de monitor"
 55, "Mostrar &brilho em porcentagens"
+56, "Brilho"
 
 60, "Economizar bateria"
 
@@ -55,9 +57,14 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 75, "Windows &10 Claro"
 
 80, "A&gendador"
+81, "Interface"
+82, "Janela principal"
+83, "Ícones"
 
 90, "Combinação de teclas para alterar esquema de energia"
 91, "Desativado"
+92, "Teclas de atalho"
+93, "Tecla de atalho selecionada"
 
 100, "Exportar configurações para arquivo"
 101, "Importar configurações do arquivo"
@@ -78,6 +85,8 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 125, "Baseada na carga da &bateria (invertido)"
 
 130, "Desativar bo&rda da janela popup"
+131, "Usar ícone &cruzado quando a bateria está ausente"
+132, "Exibir &porcentagem de carga na Área de Notificação"
 
 134, "&Desligar ou sair"
 135, "&Link de rodapé do popup"
@@ -93,6 +102,42 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 145, "&Desconectar"
 
 150, "&Idioma"
+151, "Pa&drão"
+
+160, "Máximo desempenho"
+161, "Melhor desempenho"
+162, "Melhor bateria"
+
+170, "Conjunto&s de esquema de energia para usar"
+171, "Esquema de energia &clássico"
+172, "Modos de energia do &Windows 10"
+173, "Esquemas de energia"
+
+180, "Mostra o Indicador de Esquema de Energia grande no meio da(s) tela(s) ao mudar um Esquema de Energia"
+181, "Use um Ícone de Bateria cruzada quando a bateria é removida do computador"
+182, "Mostra a porcentagem de carga atual em vez do Ícone da Bateria na Área de Notificação"
+183, "Torna a borda da janela mais fina e remove a sombra"
+184, "Mostra os Esquemas de Energia \"Clássicos\" (ex. \"Poupar energia\" e \"Alto desempenho\") na lista de Esquemas de Energia, mesmo eles estando ocultos pelo sistema"
+185, "Mostra os planos balanceados doo Modos de Energia (que são controlados pelo controle deslizante no Popup de Bateria do Windows 10) na lista de Esquemas de Energia"
+186, "Mostra Esquemas de Energia ocultos, específicos do fabricante na lista de Esquemas de Energia"
+187, "Configura a tecla de atalho global para alternar entre os Esquemas de Energia"
+188, "Previne que o brilho interno da tela seja alterado quando você mudar um Esquema de Energia ou (des)conecta o carregador"
+189, "Automaticamente verifica por atualizações (uma vez ao dia) e pergunta para atualizar"
+
+210, "Sobre"
+211, "Autor"
+212, "Artem Tarasov"
+213, "Site do Battery Mode"
+214, "Documentação do NextScheme"
+215, "https://en.bmode.tarcode.ru/help"
+216, "Feedback"
+217, "https://en.bmode.tarcode.ru/feedback"
+218, "Contribua com o Battery Mode"
+219, "https://en.bmode.tarcode.ru/contribute"
+220, "Documentação do Agendador"
+221, "https://en.bmode.tarcode.ru/scheduler-help"
+222, "Notas de Lançamento"
+223, "https://en.bmode.tarcode.ru/releasenotes"
 
 10000, "Abrir pasta do registro de depuração"
 }

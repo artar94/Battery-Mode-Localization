@@ -77,6 +77,21 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 1137, "Arquivos de áudio"
 1138, "Todos os arquivos"
 
+1140, "Energia"
+1141, "desliga este PC"
+1142, "reinicia o Windows"
+1143, "coloca este PC no modo de suspensão"
+1144, "hiberna este PC"
+1145, "desliga a tela"
+1146, "liga a tela"
+
+1151, "Desligar"
+1152, "Reiniciar"
+1153, "Suspender"
+1154, "Hibernar"
+1155, "Desligar tela"
+1156, "Ligar tela"
+
 1200, "carga da bateria %0:s %1:d%%"
 1201, "carga da bateria %0:s"
 1202, "Carga da bateria"

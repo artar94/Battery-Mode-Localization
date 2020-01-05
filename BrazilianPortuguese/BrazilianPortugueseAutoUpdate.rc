@@ -13,4 +13,5 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 909, "Fechar"
 910, "Ocorreu um erro ao baixar as atualizações"
 911, "Não foi possível iniciar a atualização"
+912, "Versão atual"
 }
