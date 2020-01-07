@@ -1,6 +1,7 @@
 STRINGTABLE
 LANGUAGE LANG_UKRAINIAN, SUBLANG_DEFAULT
-{0, "Українська"
+{
+0, "Українська"
 1, "Battery Mode"
 2, "Оберіть план живлення:"
 3, "&Налаштування"
