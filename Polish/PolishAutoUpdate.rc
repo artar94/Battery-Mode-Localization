@@ -13,4 +13,5 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 909, "Zamknij"
 910, "Wystąpił błąd podczas pobierania aktualizacji"
 911, "Nie można zainicjować aktualizacji"
+912, "Aktualna wersja"
 }

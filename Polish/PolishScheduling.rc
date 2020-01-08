@@ -77,6 +77,21 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 1137, "Pliki audio"
 1138, "Wszystkie pliki"
 
+1140, "Zasilanie"
+1141, "wyłącz PC"
+1142, "uruchom ponownie Windows"
+1143, "przejdź w tryb uspienia"
+1144, "hibernuj ten PC"
+1145, "wyłącz ekran"
+1146, "włącz ekran"
+
+1151, "Zamknij system"
+1152, "Uruchom ponownie"
+1153, "Uśpij"
+1154, "Hibernacja"
+1155, "Wyłącz ekran"
+1156, "Włącz ekran"
+
 1200, "ładowanie baterii %0:s %1:d%%"
 1201, "ładowanie baterii %0:s"
 1202, "Ładowanie baterii"

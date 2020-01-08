@@ -4,16 +4,16 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 0, "Polski"
 1, "Battery Mode"
 2, "Wybierz schemat zasilania:"
-3, "U&stawienia zaawansowane"
+3, "U&stawienia"
 4, "Użyj ikon &monochromatycznych"
-5, "Ustawienia klawiszy &skrótów"
-6, "&Autostart z systemem Windows"
+5, "Konfiguracja"
+6, "&Uruchom z systemem Windows"
 7, "Stała &jasność ekranu"
 
 9, "W&yjście"
 10, "Wersja"
 11, "&Strona internetowa Battery Mode"
-12, "https://bmode.tarcode.ru"
+12, "https://en.bmode.tarcode.ru"
 13, "&Informacje o systemie zasilania"
 
 15, "&Zasilanie"
@@ -26,6 +26,7 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 23, "Na &wszystkich monitorach"
 
 26, "Pokaż ukryte schematy zasilania"
+27, "Ukryty schemat"
 
 30, "Włącz jasność adaptacyjną"
 31, "Wyłącz jasność adaptacyjną"
@@ -42,8 +43,9 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 51, "Ska&nuj w poszukiwaniu monitorów"
 52, "Monitor wewnętrzny"
 53, "Suwak &jasności"
-54, "Pokaż &model monitorowania"
+54, "Pokaż &model monitora"
 55, "Pokaż &jasność w procentach"
+56, "Jasność"
 
 60, "Oszczędzanie baterii"
 
@@ -55,9 +57,14 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 75, "Windows &10 Light"
 
 80, "&Harmonogram"
+81, "Interfejs"
+82, "Główne okno"
+83, "Ikony"
 
 90, "Kombinacja skrótu do zmiany schematu zasilania"
 91, "Wyłączone"
+92, "Klawisze skrótów"
+93, "Wybrany klawisz skrótu"
 
 100, "Eksportuj ustawienia do pliku"
 101, "Importuj ustawienia z pliku"
@@ -78,6 +85,8 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 125, "W oparciu o stan &naładowania baterii (odwrócony)"
 
 130, "Wyłącz ob&ramowanie okna wyskakującego"
+131, "Użyj przekreślonej &ikony, gdy brakuje baterii"
+132, "Wyświetl &procent naładowania w zasobniku"
 
 134, "Zamknij lub wylog&uj się"
 135, "Link stopki wyskakującego okna"
@@ -94,6 +103,41 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 
 150, "&Język"
 151, "&Domyślne"
+
+160, "Maksymalna wydajność"
+161, "Najlepsza wydajność"
+162, "Oszczędzanie baterii"
+
+170, "Zestawy &schematów zasilania do użycia"
+171, "&Klasyczne schematy zasilania"
+172, "Tryby zasilania systemu &Windows 10"
+173, "Schematy zasilania"
+
+180, "Wyświetl duży wskaźnik schematu zasilania na środku ekranu(-ów) podczas przełączania schematu zasilania"
+181, "Użyj przekreślonej ikony baterii, gdy bateria jest wyjęta z komputera"
+182, "Wyświetl aktualny procent naładowania baterii zamiast ikony w zasobniku systemowym"
+183, "Wyświetl cienkie obramowanie okna i usuń cień"
+184, "Wyświetl \"Klasyczne\" schematy zasilania (np. \"Oszczędzanie energii\" i \"Wysoka wydajność\") na liście schematów zasilania, nawet gdy są one ukryte przez OS"
+185, "Wyświetl zrównoważone plany trybu zasilania (które są kontrolowane przez suwak w domyślnym wyskakującym oknie Windows 10) na liście schematów zasilania"
+186, "Wyświetl specyficzne dla dostawcy, ukryte schematy zasilania na liście schematów zasilania"
+187, "Skonfiguruj globalny skrót, aby przełączać się między schematami zasilania"
+188, "Zapobiegaj zmianie jasności ekranu wewnętrznego po przełączeniu schematu zasilania lub (od)podłączeniu ładowarki"
+189, "Automatycznie sprawdzaj aktualizacje (raz dziennie) i pytaj o aktualizację"
+
+210, "O programie"
+211, "Autor"
+212, "Artem Tarasov"
+213, "Strona internetowa Battery Mode"
+214, "Dokumentacja NextScheme"
+215, "https://en.bmode.tarcode.ru/help"
+216, "Opinie"
+217, "https://en.bmode.tarcode.ru/feedback"
+218, "Przyczyń się do rozwoju Battery Mode"
+219, "https://en.bmode.tarcode.ru/contribute"
+220, "Dokumentacja harmonogramu"
+221, "https://en.bmode.tarcode.ru/scheduler-help"
+222, "Informacje o wydaniu"
+223, "https://en.bmode.tarcode.ru/releasenotes"
 
 10000, "Otwórz folder dziennika debugowania"
 }
