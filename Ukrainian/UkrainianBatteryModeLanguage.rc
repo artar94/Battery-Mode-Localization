@@ -138,6 +138,7 @@ LANGUAGE LANG_UKRAINIAN, SUBLANG_DEFAULT
 221, "https://bmode.tarcode.ru/scheduler-help"
 222, "Історія змін (рос.)"
 223, "https://bmode.tarcode.ru/releasenotes"
+224, "Ліцензійна угода (рос.)"
 
 10000, "Відкрити папку журналів налагодження"
 }

@@ -138,6 +138,7 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 221, "https://en.bmode.tarcode.ru/scheduler-help"
 222, "Informacje o wydaniu"
 223, "https://en.bmode.tarcode.ru/releasenotes"
+224, "Licencja"
 
 10000, "Otwórz folder dziennika debugowania"
 }

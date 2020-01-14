@@ -138,6 +138,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 221, "https://en.bmode.tarcode.ru/scheduler-help"
 222, "Release Notes"
 223, "https://en.bmode.tarcode.ru/releasenotes"
+224, "License"
 
 10000, "Open debug log folder"
 }

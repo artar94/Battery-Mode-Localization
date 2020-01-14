@@ -138,6 +138,7 @@ LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
 221, "https://bmode.tarcode.ru/scheduler-help"
 222, "История изменений"
 223, "https://bmode.tarcode.ru/releasenotes"
+224, "Лицензионное соглашение"
 
 10000, "Открыть папку с логами"
 }
