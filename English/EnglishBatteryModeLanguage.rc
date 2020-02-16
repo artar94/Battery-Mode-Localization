@@ -46,6 +46,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 54, "Show &monitor model"
 55, "Show &brightness in percents"
 56, "Brightness"
+57, "Adjust this monitor brightness by scrolling over tray icon"
 
 60, "Battery saver"
 
