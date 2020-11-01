@@ -55,6 +55,8 @@ LANGUAGE LANG_PORTUGUESE, SUBLANG_DEFAULT
 73, "Windows &10"
 74, "Windows &8 Claro"
 75, "Windows &10 Claro"
+76, "Windows &XP"
+77, "Windows &Vista"
 
 80, "A&gendador"
 81, "Interface"

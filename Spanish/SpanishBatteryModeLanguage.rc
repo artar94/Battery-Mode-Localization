@@ -53,6 +53,8 @@ LANGUAGE LANG_SPANISH, SUBLANG_SPANISH
 73, "Windows &10"
 74, "Windows &8 Ligero"
 75, "Windows &10 Ligero"
+76, "Windows &XP"
+77, "Windows &Vista"
 
 80, "Planificador"
 

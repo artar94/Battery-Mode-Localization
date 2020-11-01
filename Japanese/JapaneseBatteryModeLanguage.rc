@@ -56,6 +56,8 @@ LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
 73, "Windows 10(&1)"
 74, "Windows 8 Light(&L)"
 75, "Windows 10 Light(&I)"
+76, "Windows XP(&X)"
+77, "Windows Vista(&V)"
 
 80, "スケジューラ(&H)"
 81, "インターフェース"

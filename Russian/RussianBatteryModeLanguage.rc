@@ -56,6 +56,8 @@ LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
 73, "Windows &10"
 74, "Windows &8 светлый"
 75, "Windows &10 светлый"
+76, "Windows &XP"
+77, "Windows &Vista"
 
 80, "П&ланировщик"
 81, "Интерфейс"

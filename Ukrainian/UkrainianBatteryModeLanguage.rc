@@ -56,6 +56,8 @@ LANGUAGE LANG_UKRAINIAN, SUBLANG_DEFAULT
 73, "Windows &10"
 74, "Windows &8 (світлий)"
 75, "Windows &10 (світлий)"
+76, "Windows &XP"
+77, "Windows &Vista"
 
 80, "П&ланувальник"
 81, "Інтерфейс"

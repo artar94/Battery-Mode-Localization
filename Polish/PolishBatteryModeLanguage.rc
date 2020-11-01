@@ -55,6 +55,8 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 73, "Windows &10"
 74, "Windows &8 Light"
 75, "Windows &10 Light"
+76, "Windows &XP"
+77, "Windows &Vista"
 
 80, "&Harmonogram"
 81, "Interfejs"
